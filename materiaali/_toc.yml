@@ -4,9 +4,9 @@ format: jb-book
 root: intro
 chapters:
 - file: harjoitukset/opettajakoulutukset
-  sections:
+  #sections:
 - file: harjoitukset/lukiovierailut
-  sections:
+  #sections:
 - file: harjoitukset/ajatuksia
-  sections:
+  #sections:
 
