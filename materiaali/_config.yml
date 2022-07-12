@@ -44,7 +44,7 @@ html:
     </div>
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
-  baseurl                   : "https://opendata-education.github.io/Tyopajat/intro.html"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl                   : "https://opendata-education.github.io/Blogi/intro.html"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis              : false
     utterances              : false
@@ -65,7 +65,7 @@ launch_buttons:
   colab_url                 : https://colab.research.google.com # The URL of Google Colab (e.g., https://colab.research.google.com)
 
 repository:
-  url                       : https://github.com/opendata-education/Tyopajat  # The URL to your book's repository
+  url                       : https://github.com/opendata-education/Blogi  # The URL to your book's repository
   path_to_book              : "materiaali"  # A path to your book's folder, relative to the repository root.
   branch                    : "main"  # Which branch of the repository should be used when creating links
 
