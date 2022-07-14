@@ -3,10 +3,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: harjoitukset/opettajakoulutukset
+- file: tektsit/opettajakoulutukset
   #sections:
-- file: harjoitukset/lukiovierailut
+- file: tekstit/lukiovierailut
   #sections:
-- file: harjoitukset/ajatuksia
+- file: tekstit/ajatuksia
   #sections:
 
