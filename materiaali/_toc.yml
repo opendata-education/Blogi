@@ -3,7 +3,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: tektsit/opettajakoulutukset
+- file: tekstit/opettajakoulutukset
   #sections:
 - file: tekstit/lukiovierailut
   #sections:
