@@ -33,4 +33,4 @@ Kaksi tuntia on lyhyt aika esittää avoimen datan mahdollisuudet opetuksessa, j
 
 Santeri Koivula opiskelee teknillistä fysiikkaa ja matematiikkaa Aalto-yliopistossa, pääaineenaan matematiikka ja systeemitieteet. Kesällä 2022 hän työskentelee kesäharjoittelijana Fysiikan tutkimuslaitoksella CERN:ssä. Työssään hän tekee materiaaleja ja pitää työpajoja tutkimuspohjaisen opetuksen sisällyttämiseksi luokkahuoneeseen. Vapaa-ajallaan Santerin voi löytää tanssimasta tai tekemästä vapaaehtoistöitä. 
 
-![Santerikuva](/../../kuvat/SanteriK_final.jpg)
+![Santerikuva](../../kuvat/SanteriK_final.jpg)
