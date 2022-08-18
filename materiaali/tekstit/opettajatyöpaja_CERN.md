@@ -29,3 +29,8 @@ Esimerkin tavoitteena ei ollut saada opettajia ymmärtämään kaikkia Higgsin b
 
 Kaksi tuntia on lyhyt aika esittää avoimen datan mahdollisuudet opetuksessa, ja opettajien täytyi käsitellä paljon uutta tietoa. Palaute oli kuitenkin positiivista, ja moni opettaja oli valmis oppimaan lisää.
 
+### Kirjoittajasta
+
+Santeri Koivula opiskelee teknillistä fysiikkaa ja matematiikkaa Aalto-yliopistossa, pääaineenaan matematiikka ja systeemitieteet. Kesällä 2022 hän työskentelee kesäharjoittelijana Fysiikan tutkimuslaitoksella CERN:ssä. Työssään hän tekee materiaaleja ja pitää työpajoja tutkimuspohjaisen opetuksen sisällyttämiseksi luokkahuoneeseen. Vapaa-ajallaan Santerin voi löytää tanssimasta tai tekemästä vapaaehtoistöitä. 
+
+
