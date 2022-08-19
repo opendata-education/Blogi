@@ -5,7 +5,7 @@ root: intro
 chapters:
 - file: tekstit/opettajakoulutukset
   sections:
-  - file: tekstit/opettajatyöpaja_CERN
+  - file: tekstit/opettajatyopaja_CERN
 - file: tekstit/lukiovierailut
   #sections:
 - file: tekstit/ajatuksia
