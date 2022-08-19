@@ -4,7 +4,8 @@ format: jb-book
 root: intro
 chapters:
 - file: tekstit/opettajakoulutukset
-  #sections:
+  sections:
+  - file: tekstit/opettajatyöpaja_CERN
 - file: tekstit/lukiovierailut
   #sections:
 - file: tekstit/ajatuksia
