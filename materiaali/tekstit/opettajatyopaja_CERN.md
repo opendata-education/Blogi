@@ -1,5 +1,5 @@
 
-# Avoin data -työpaja
+# Avoin data -työpaja: CERN kesällä 2022
 
 Datan määrä ja sen merkitys yhteiskunnalle kasvaa jatkuvasti. Suuria datasettejä käytetään alalla kuin alalla, ja netissä on useita paikkoja, joissa pääsy dataan on ilmaista. Eräs näistä sivuista on CERN, Euroopan hiukkasfysiikan tutkimuskeskus, jonka CMS-kokeesta on lähes 10 000 ilmaista datasettiä ilmaiseksi saatavilla. Pidimme työpajan siitä, kuinka lukio-opettajat voivat käyttää avointa dataa heidän tunneillaan. Työpaja oli osa CERNin International High School Teacher Programmea, jossa yli 40 opettajaa tutustuvat erilaisiin konsepteihin hiukkasfysiikassa ja opetuksessa.
 
