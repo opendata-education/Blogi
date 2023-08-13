@@ -1,0 +1,1 @@
+# Ajatuksia avoimesta datasta
