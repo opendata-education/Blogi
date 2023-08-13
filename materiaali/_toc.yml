@@ -3,9 +3,13 @@
 format: jb-book
 root: intro
 chapters:
-- file: tekstit/kurssit
+- file: tekstit/opettajakoulutukset
   sections:
-  - file: tekstit/Aerosolit
-
-
+  - file: tekstit/opettajatyopaja_CERN
+- file: tekstit/lukiovierailut
+  sections:
+  - file: tekstit/aerosoli-blogi
+- file: tekstit/ajatuksia
+  sections:
+  - file: tekstit/santerin_kesa
 
